@@ -2953,5 +2953,6 @@ Ayan Das
 - [Dan James](https://github.com/Danjamesd)
 - [Denis Stefanski](https://github.com/denis-ste)
 - [Eddie Galindez](https://github.com/Radical-Edward-G/)
+- [Suko Gurung] (github.com/SukBahadur)
 - [Xia](https://github.com/xia930425/)
 - [Kunal Singh](https://github.com/kunal021)
